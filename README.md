@@ -25,8 +25,8 @@ and create the Python environment with the following commands (assuming _[conda]
 is installed):
 
 ```bash
-conda create -n ifm_base python=3.11
-conda activate ifm_base
+conda create -n ijcnn_base python=3.11
+conda activate ijcnn_base
 
 pip install pynever maraboupy
 conda deactivate
@@ -71,8 +71,8 @@ git clone https://github.com/NeverTools/pyNever.git
 To test the mitigation using intervals you will need the interval-based verifier in this repository, and the last
 required environment:
 ```bash
-conda create -n ifm_iv python=3.7
-conda activate ifm_iv
+conda create -n ijcnn_iv python=3.7
+conda activate ijcnn_iv
 
 pip install pyinterval
 conda deactivate

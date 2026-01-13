@@ -9,7 +9,7 @@
 
 Clone this repository using the _recursive_ option
 ```bash
-git clone --recursive https://github.com/nevertools/iFM_2025.git
+git clone --recursive https://github.com/nevertools/IJCNN-2026.git
 ```
 
 To reproduce the experiments presented in the paper you will need to use different tools with little compatibility
